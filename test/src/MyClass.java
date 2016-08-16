@@ -7,7 +7,7 @@ public class MyClass {
         System.out.println("Hello, Worlds__ UNI PROJEKT");
         System.out.println("Hello, Worlds__ UNI PROJEKT");
         System.out.println("Hello, Worlds__ UNI PROJEKT");
-        System.out.println("Hello, Worlds__ UNI PROJEKT");
+        System.out.println("Hello, Worlds__ UNI PROfgfgJEKT");
         System.out.println("Hello, Worlds__ UNI PROJEKT");
     }
 }
